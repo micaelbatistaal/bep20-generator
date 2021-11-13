@@ -1,4 +1,4 @@
-# BEP20 Token Generator
+# BEP20 Token Generator 
 
 [![CI](https://github.com/vittominacori/bep20-generator/workflows/CI/badge.svg?branch=master)](https://github.com/vittominacori/bep20-generator/actions/)
 [![Coverage Status](https://coveralls.io/repos/github/vittominacori/bep20-generator/badge.svg?branch=master)](https://coveralls.io/github/vittominacori/bep20-generator?branch=master)
